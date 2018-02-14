@@ -2,7 +2,7 @@ import urllib
 
 
 def read_txt():
-    path = open(r'C:\Users\Oss\Desktop\pro27\movie_quotes.txt')
+    path = open(r'movie_quotes.txt')
     info = path.read()
     check_profanity(info)
     path.close()

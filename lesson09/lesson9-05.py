@@ -10,7 +10,7 @@
 
 
 def is_friend(a):
-    if a[0] == "D" :
+    if a[0] == "D":
         return True
     return False
 

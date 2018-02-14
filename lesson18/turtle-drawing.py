@@ -2,10 +2,10 @@ import turtle
 
 def draw_something():
     window = turtle.Screen()
-    window.bgcolor('red')
+    window.bgcolor('Black')
 
     brad = turtle.Turtle()
-    brad.color('orange')
+    brad.color('blue')
     brad.shape('turtle')
     brad.hideturtle()
     brad.speed(0)

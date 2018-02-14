@@ -8,7 +8,7 @@ stooges = ['Moe','Larry','Curly']
 # Write one line of code that changes
 # the value of stooges to be:
 
-['Moe','Larry','Shemp']
+# ['Moe','Larry','Shemp']
 stooges[2] = 'Shemp'
 print stooges
 
