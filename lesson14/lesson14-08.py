@@ -89,6 +89,7 @@ dic_n = dict(mylist_n)
 
 histogram = """
 number | occurrence
+-------+-----------
      0 | {}
      1 | {}
      2 | {}
@@ -103,6 +104,7 @@ number | occurrence
 """.format(*dic_s.values())
 count_of_list = """
 number | occurrence
+-------+-----------
      0 | {}
      1 | {}
      2 | {}
