@@ -1,4 +1,4 @@
-
+import myModule
 
 course = ['History', 'Math', 'Art', 'ComSci']
 index = myModule.find_index(course, 'Math')
