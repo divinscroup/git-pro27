@@ -19,7 +19,7 @@ ratatouille = media.Movie('Ratatouille', ' a rat who love to being a chef',
                           'https://i.ytimg.com/vi/eh62Ri60lXI/movieposter.jpg',
                           'https://www.youtube.com/watch?v=8jT8YAY96oA')
 
-midnight_in_paris = media.Movie('Midnigt in Paris', 'woman fall in love',
+midnight_in_paris = media.Movie('Midnight in Paris', 'woman fall in love',
                                 'https://images-na.ssl-images-amazon.com/images/I/91n1dXALrML._SL1500_.jpg',
                                 'https://www.youtube.com/watch?v=FAfR8omt-CY')
 
@@ -31,3 +31,5 @@ movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hun
 
 
 fresh_tomatoes.open_movies_page(movies)
+
+

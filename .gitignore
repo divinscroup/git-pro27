@@ -5,3 +5,4 @@
 .editorconfig
 .idea
 *.pyc
+send-sms.py
