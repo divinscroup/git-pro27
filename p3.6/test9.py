@@ -8,5 +8,5 @@ for d in os.listdir():
     num = re.findall(r'\d+', f_num)
 
     f_new = '{:02} {}-{}{}'.format(int(num[0]), f_title.strip(), f_middle.strip(), f_ext)
-    os.rename(d,f_new)
-    
+    os.rename(d, f_new)
+
