@@ -8,4 +8,3 @@ post2 = models.Posts('title2', 'post2')
 
 print member1.__str__()
 print post1.__str__()
-
