@@ -15,3 +15,4 @@ class Posts:
 
     def __str__(self):
         return '{}\n{}'.format(self.title, self.content)
+

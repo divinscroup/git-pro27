@@ -89,4 +89,3 @@ def process_madlib(mad_lib):
 
 print process_madlib(test_string_1)
 print process_madlib(test_string_2)
-
