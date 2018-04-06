@@ -30,6 +30,6 @@ def atm(balance, x):
         print 'your current balance is :' + str(balance - x)
     else:
         print "You don't have enough money!"
-atm(1000, input('enter a value to withdraw:\n'))
+atm(1000, int(input('enter a value to withdraw:\n')))
 
 
