@@ -9,3 +9,4 @@ for ninja in ninjas:
 chars = ['a', 'b', 'c', 'd']
 for a in range(len(chars) - 1, -1, -1):
     print(a, chars[a])
+
